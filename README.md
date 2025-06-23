@@ -4,7 +4,7 @@ A responsive clone of the Varanasi Development Authority homepage built using **
 
 ## 🚀 Live Link
 
-🔗 [View Website](https://your-netlify-url.netlify.app)
+🔗 [View Website](https://vda-clone.netlify.app/)
 
 ## 🛠️ Tech Used
 
