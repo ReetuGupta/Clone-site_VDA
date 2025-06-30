@@ -1,6 +1,6 @@
 # 🏙️ VDA Website Clone
 
-A responsive clone of the Varanasi Development Authority homepage built using **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **Bootstrap** — no React used as per assignment requirements.
+A responsive clone of the [Varanasi Development Authority](https://vdavns.com/#) homepage built using **HTML**, **CSS**, **JavaScript**, **Tailwind CSS** as an assignment and learning purpose.
 
 ## 🚀 Live Link
 
