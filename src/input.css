@@ -23,3 +23,20 @@
     --breakpoint-xl: 1200px;
     --breakpoint-xxl: 1400px;
 }
+
+ @keyframes blinkbg {
+    0% {
+      background-color: #15326E;
+    }
+    50% {
+      background-color: #DB5E00; 
+    }
+    100%{
+        background-color: #15326E;
+    }
+    }
+
+
+   .animate-blinkbg {
+    animation: blinkbg 1s infinite;
+  }
