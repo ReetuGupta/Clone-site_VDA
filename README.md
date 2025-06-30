@@ -4,7 +4,7 @@ A responsive clone of the [Varanasi Development Authority](https://vdavns.com/#)
 
 ## 🚀 Live Link
 
-🔗 [View Website](https://vda-clone.netlify.app/)
+🔗 [View Website](https://reetu-gupta-vda-clone.netlify.app/)
 
 ## 🛠️ Tech Used
 
